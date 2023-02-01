@@ -1,10 +1,6 @@
 # Meta Back-End Developer Capstone
 
-<p align="center">
-    <a href="https://www.credly.com/org/facebook-blueprint/badge/meta-back-end-developer-certificate">
-        <img src="images/meta-backend-cert.png" width="30%" height="30%" />
-    </a>
-</p>
+
 
 ## Steps to run the app
 
@@ -24,6 +20,14 @@ PASSWORD = YOUR_MYSQL_PASSWORD
 HOST     = localhost                 # or 127.0.0.1
 PORT     = 3306
 ```
+
+
+<p align="center">
+    <a href="https://www.credly.com/org/facebook-blueprint/badge/meta-back-end-developer-certificate">
+        <img src="images/meta-backend-cert.png" width="30%" height="30%" />
+    </a>
+</p>
+
 
 ### 3. Install dependencies
 
